@@ -1,7 +1,5 @@
 ## Flavio H. Galon
-Backend Software Engineer
-
-Hello there, I'm a backend software engineer working mainly with Python and distributed systems.
+Hello there 👋, I'm a backend software engineer working mainly with Python and distributed systems.
 
 Check my Linkedin profile for more info: https://www.linkedin.com/in/flaviogalon/
 
