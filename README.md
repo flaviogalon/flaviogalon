@@ -1,4 +1,12 @@
-### Hi there 👋
+## Flavio H. Galon
+Backend Software Engineer
+
+Hello there, I'm a backend software engineer working mainly with Python and distributed systems.
+
+Check my Linkedin profile for more info: https://www.linkedin.com/in/flaviogalon/
+
+This is my personal github profile. To check my professional activity (you won't be able to see much there, though 🙃) go here: https://github.com/galonflavio
+
 
 <!--
 **flaviogalon/flaviogalon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
