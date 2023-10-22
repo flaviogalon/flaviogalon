@@ -3,6 +3,8 @@ Hello there 👋, I'm a backend software engineer working mainly with Python and
 
 Check my Linkedin profile for more info: https://www.linkedin.com/in/flaviogalon/
 
+You can also find more about me [on my personal website](https://flaviogalon.github.io) 
+
 This is my personal github profile. To check my professional activity (you won't be able to see much there, though 🙃) go here: https://github.com/galonflavio
 
 
